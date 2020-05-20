@@ -12,5 +12,5 @@ This program computes the OpenPose, the neural network to classify postures, the
 - GYMNASTIC_ACTIVITY_RECOGNITION_ROBOT.mp4. This video shows different exercises that are evaluated and a Pepper robot that repeats them.
 Take into account that the robot has repeated the exercises after they have been recorded. The video has been mounted after carrying out the 
 exercises putting together the videos of the robot and the person. 
-
+- GYMNASTIC_ACTIVITY_EVALUATION.mp4. This video is an example of the evaluation of exercises.
 
