@@ -72,12 +72,12 @@ POSTURAS = [ "Arms up",
             "Left arm half up/right down",
             "Right arm half up/left middle",
             "Left arm half up/right middle",
-            "Arms in jars",
-            "Arms in jars to the left",
-            "Arms in jars to the right",
-            "Arms crossed behind your head",
+            "Arms akimbo",
+            "Arms akimbo to the left",
+            "Arms akimbo to the right",
+            "Arms behind head",
             "Arms behind head to the left",
-            "Arms behind your to the right"]
+            "Arms behind head to the right"]
 
 # Con esto indicamos que debemos repartir el uso de la memoria de Tensorflow
 config = tf.compat.v1.ConfigProto()
